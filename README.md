@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MelodiaParker!
+- 👋 Hi, I’m Melodía J. Parker (@MelodiaParker)!
 - 👀 I’m interested in writing, yoga, meditation, reading, music, gaming, strength training, running, languages, and technology.
 - 🌱 I’m currently (re)learning front-end design and development.
 - 📫 You can reach me at https://MelodiaParker.com/contact
