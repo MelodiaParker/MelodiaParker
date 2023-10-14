@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Melodía J. Parker (@MelodiaParker)!
 - 👀 I’m interested in writing, yoga, meditation, reading, music, gaming, strength training, running, languages, and technology.
-- 🌱 I’m currently (re)learning full stack development.
+- 🌱 I’m currently (re)learning full stack web development.
 - 📫 You can reach me at https://MelodiaParker.com/contact
 
 <!---
